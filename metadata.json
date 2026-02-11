@@ -1,0 +1,7 @@
+{
+  "name": "Lyric Detector",
+  "description": "An advanced tool to analyze audio files, transcribe lyrics, and generate precise SRT subtitle files using Gemini AI.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
